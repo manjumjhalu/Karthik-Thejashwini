@@ -1,0 +1,15 @@
+{
+  "title": "Karthik M. & Thejashwini M.H. — Wedding Invitation",
+  "description": "Together with their families, Karthik M. & Thejashwini M.H. invite you to celebrate their wedding on 14 & 15 November 2026 at Shree Guddada Malleshwara Samudaya Bhavana, Mallapura, Karnataka.",
+  "language": "en",
+  "robots": {
+    "index": true
+  },
+  "openGraph": {
+    "image": "https://manjumjhalu.github.io/Karthik-Thejashwini/photos/couple.jpeg"
+  },
+  "accessibility": {
+    "addBypassLinks": true,
+    "ignoreReducedMotion": false
+  }
+}
